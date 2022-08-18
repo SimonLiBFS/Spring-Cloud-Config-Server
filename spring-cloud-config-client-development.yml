@@ -2,8 +2,5 @@ spring:
   application:
     name: spring-cloud-config-client
     
-server:
-  port: 0
- 
 user:
   role: tester123
