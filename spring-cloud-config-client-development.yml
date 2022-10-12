@@ -4,4 +4,4 @@ spring:
     
 user:
   role: tester123
-  gender: "male"
+  gender: male
