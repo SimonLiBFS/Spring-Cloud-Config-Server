@@ -3,5 +3,5 @@ spring:
     name: spring-cloud-config-client
     
 user:
-  role: tester12333
-  gender: male
+  role: tester123456
+  gender: female
